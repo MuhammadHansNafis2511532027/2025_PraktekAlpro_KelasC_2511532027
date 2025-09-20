@@ -10,7 +10,7 @@ public class tugasAlproPekan2 {
 		int JumlahChar = 200;
 		boolean Sepuh = true;
 		
-		System.out.println("*** Detail Akun Game ***");
+		System.out.println("*** Detail Akun Game yang Dijual ***");
 		System.out.println("Level        : " + Level);
 		System.out.println("Harga        : $" + Harga);
 		System.out.println("Stats        : " + Stats);
